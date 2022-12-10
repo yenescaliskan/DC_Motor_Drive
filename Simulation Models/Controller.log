@@ -1,0 +1,21 @@
+Circuit: * C:\Users\eness\OneDrive\Masaüstü\DERSLER\5\5.1\EE463\EE463_HardwareProject\Simulation Models\Controller.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Dec 10 19:27:32 2022
+Total elapsed time: 0.096 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 5710
+traniter = 5682
+tranpoints = 1790
+accept = 1614
+rejected = 176
+matrix size = 16
+fillins = 2
+solver = Normal
+Matrix Compiler1: 644 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 990 bytes object code size  0.1/0.2/[0.1]
+
