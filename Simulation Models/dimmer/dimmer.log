@@ -1,0 +1,21 @@
+Circuit: * C:\Users\user\Documents\GitHub\EE463_Hardware-Project_Power-Rangers\Simulation Models\dimmer\dimmer.asc
+
+Per .tran options, skipping operating point for transient analysis.
+
+Date: Thu Dec 22 01:44:37 2022
+Total elapsed time: 0.407 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 69351
+traniter = 69351
+tranpoints = 17814
+accept = 13874
+rejected = 3940
+matrix size = 24
+fillins = 25
+solver = Normal
+Matrix Compiler1: 2.58 KB object code size  0.4/0.2/[0.2]
+Matrix Compiler2: 2.39 KB object code size  0.2/0.2/[0.2]
+
