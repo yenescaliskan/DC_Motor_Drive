@@ -1,4 +1,4 @@
-# AC/DC_Motor_Driver
+# AC/DC_Motor_Drive
 
 Converters and rectifiers are crucial for the motor drive system in the power
 electronics field. This project involves designing an AC/DC converter. The potential
