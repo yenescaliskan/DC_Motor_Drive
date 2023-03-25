@@ -1,5 +1,5 @@
 # EE463_Hardware-Project_Power-Rangers
-https://docs.google.com/document/d/1c9gLg91e3wHbiEj-iJ1cJ-d6WuxlFtRG1xiisJuSb-E/edit#heading=h.rqvn7csarm0j
+
 Converters and rectifiers are crucial for the motor drive system in the power
 electronics field. This project involves designing an AC/DC converter. The potential
 topologies discussed in this report. The topology is chosen in consideration of the benefits
