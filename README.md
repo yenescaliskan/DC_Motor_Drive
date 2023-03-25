@@ -1,4 +1,4 @@
-# EE463_Hardware-Project_Power-Rangers
+# AC/DC_Motor_Driver
 
 Converters and rectifiers are crucial for the motor drive system in the power
 electronics field. This project involves designing an AC/DC converter. The potential
